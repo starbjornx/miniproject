@@ -1,12 +1,12 @@
-li {
+* {
+    scroll-behavior: smooth;
+  }
+  
+  li {
     display: inline;
-    padding: 10% 5%
-}
-
-a {
+    padding: 1% 5%;
+  }
+  
+  a {
     cursor: grabbing;
-}
-
-#about-me {
-    
-}
+  }
