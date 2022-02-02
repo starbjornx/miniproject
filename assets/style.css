@@ -10,3 +10,7 @@
   a {
     cursor: grabbing;
   }
+
+  .contact-block {
+      margin: 30px 0px;
+  }
